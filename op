@@ -501,7 +501,7 @@ task.spawn(
     function()
         while true do
             wait(0.45)
-            Chat("trolled :)")
+            Chat(":3")
         end
     end
 )
